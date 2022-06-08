@@ -1,5 +1,13 @@
 # @backstage/plugin-kubernetes-backend
 
+## 0.6.0-next.3
+
+### Patch Changes
+
+- 2aedf64ad3: Updated dependency `@google-cloud/container` to `^4.0.0`.
+- Updated dependencies
+  - @backstage/backend-common@0.14.0-next.3
+
 ## 0.6.0-next.2
 
 ### Patch Changes

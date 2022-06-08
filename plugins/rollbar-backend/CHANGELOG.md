@@ -1,5 +1,13 @@
 # @backstage/plugin-rollbar-backend
 
+## 0.1.30-next.3
+
+### Patch Changes
+
+- ad472646da: Updated dependency `camelcase-keys` to `^8.0.0`.
+- Updated dependencies
+  - @backstage/backend-common@0.14.0-next.3
+
 ## 0.1.30-next.2
 
 ### Patch Changes

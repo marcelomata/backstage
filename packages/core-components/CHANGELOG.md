@@ -1,5 +1,12 @@
 # @backstage/core-components
 
+## 0.9.5-next.3
+
+### Patch Changes
+
+- de593ec78f: Updated dependency `react-text-truncate` to `^0.19.0`.
+- 7d355c4b3f: Fix the missing filter in the toolbar when passing a custom component in the core-components Table
+
 ## 0.9.5-next.2
 
 ### Patch Changes

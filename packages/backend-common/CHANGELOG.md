@@ -1,5 +1,11 @@
 # @backstage/backend-common
 
+## 0.14.0-next.3
+
+### Patch Changes
+
+- f5283a42e2: Updated dependency `@google-cloud/storage` to `^6.0.0`.
+
 ## 0.14.0-next.2
 
 ### Minor Changes

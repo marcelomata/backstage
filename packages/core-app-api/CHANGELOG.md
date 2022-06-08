@@ -1,5 +1,11 @@
 # @backstage/core-app-api
 
+## 1.0.3-next.1
+
+### Patch Changes
+
+- 19781483a2: Handle URLs as the first argument to `fetchApi`, when using the `plugin:` protocol
+
 ## 1.0.3-next.0
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @backstage/catalog-client
 
+## 1.0.3-next.1
+
+### Patch Changes
+
+- 35bc0a7c27: Update README to point to catalog-react for frontend usage
+
 ## 1.0.3-next.0
 
 ### Patch Changes
